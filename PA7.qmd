@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 7"
-author: "Group 1"
+author: "Caleb Jensen, Michelle Kairy, Harshini Karthikeyan, Jun Noh"
 format: html
 editor: visual
 ---
