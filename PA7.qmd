@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 7"
-author: "Group 1"
+author: "Harshini, Jun, Michelle, Caleb"
 format: html
 editor: visual
 ---
